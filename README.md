@@ -6,11 +6,11 @@ This is a simple to-do list that can add/remove to-dos.
 
 * https://myosubug.github.io/to-do-list/
 
-### Prerequisites
+## Prerequisites
 
 * any web browser
 
-### Installing
+## Installing
 
 No installation is required.
 
