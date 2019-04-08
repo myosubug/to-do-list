@@ -1,6 +1,6 @@
 # to-do list
 
-* This is a simple to-do list that can add/remove to-dos.
+This is a simple to-do list that can add/remove to-dos.
 
 ## Live example
 
