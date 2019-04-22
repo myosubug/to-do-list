@@ -21,6 +21,7 @@ $("input[type='text']").keypress(function(event) {
     }
 });
 
+
 $(".fa-plus-circle").click(function() {
     $("input[type='text']").fadeToggle();
 });
