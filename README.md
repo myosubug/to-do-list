@@ -16,7 +16,7 @@ No installation is required.
 
 ## Built With
 
-* Jquery
+* JQuery
 * html
 * css
 
