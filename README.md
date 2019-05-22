@@ -12,7 +12,7 @@ This is a simple to-do list that can add/remove to-dos.
 
 ## Installing
 
-No installation is required.
+* No installation is required.
 
 ## Built With
 
